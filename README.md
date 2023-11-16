@@ -1,4 +1,4 @@
-# Data collection Subsystem
+# Template for Spring project start
 Spring: 2.7.0
 
 Pg
