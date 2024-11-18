@@ -1,10 +1,10 @@
-package com.example.DataCollectionSubsystem;
+package com.example.JavaSpringTemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DataCollectionSubsystemApplicationTests {
+class JavaSpringTemplateTests {
 
 	@Test
 	void contextLoads() {

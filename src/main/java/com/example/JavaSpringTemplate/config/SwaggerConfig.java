@@ -1,4 +1,4 @@
-package com.example.DataCollectionSubsystem.config;
+package com.example.JavaSpringTemplate.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
